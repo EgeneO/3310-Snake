@@ -1,0 +1,13 @@
+#grid {
+  display: flex;
+  flex-wrap: wrap;
+  border-style: solid;
+}
+
+.snake {
+  background-color: green;
+}
+
+.apple {
+  background-color: red;
+}
